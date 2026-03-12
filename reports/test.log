@@ -1,0 +1,5 @@
+2026-03-11 18:26:41,334 - INFO - API test started
+2026-03-11 18:26:42,132 - INFO - Received status code: 200
+2026-03-11 18:26:42,132 - INFO - Response time: 798 ms
+2026-03-11 18:26:42,132 - INFO - Response contains 20 items
+2026-03-11 18:26:42,134 - INFO - API test completed
