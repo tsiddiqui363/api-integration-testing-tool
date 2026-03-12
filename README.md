@@ -19,19 +19,6 @@ Tech Stack
 • JSON
 • Logging
 
-Project Structure:
-api-integration-testing-tool/
-│
-├── src/
-│   └── tester.py      # Main script for API testing
-│
-├── reports/
-│   ├── report.json    # Generated result report
-│   └── test.log       # Execution logs
-│
-├── requirements.txt   # Python dependencies
-└── README.md          # Project documentation
-
 How It Works:
 1. The script sends requests to several API endpoints.
 2. Each endpoint response is validated.
@@ -66,4 +53,5 @@ This project was created to practice:
 
 It demonstrates practical skills used in technical support, implementation,
 and API integration roles.
+
 
