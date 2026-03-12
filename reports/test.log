@@ -3,3 +3,17 @@
 2026-03-11 18:26:42,132 - INFO - Response time: 798 ms
 2026-03-11 18:26:42,132 - INFO - Response contains 20 items
 2026-03-11 18:26:42,134 - INFO - API test completed
+2026-03-11 22:02:37,985 - INFO - API test run started
+2026-03-11 22:02:37,985 - INFO - Testing endpoint: https://fakestoreapi.com/products
+2026-03-11 22:02:38,665 - INFO - Received status code: 200 for https://fakestoreapi.com/products
+2026-03-11 22:02:38,666 - INFO - Response time: 680 ms
+2026-03-11 22:02:38,666 - INFO - https://fakestoreapi.com/products returned 20 items
+2026-03-11 22:02:38,667 - INFO - Testing endpoint: https://fakestoreapi.com/users
+2026-03-11 22:02:39,082 - INFO - Received status code: 200 for https://fakestoreapi.com/users
+2026-03-11 22:02:39,082 - INFO - Response time: 415 ms
+2026-03-11 22:02:39,082 - INFO - https://fakestoreapi.com/users returned 10 items
+2026-03-11 22:02:39,082 - INFO - Testing endpoint: https://fakestoreapi.com/carts
+2026-03-11 22:02:39,549 - INFO - Received status code: 200 for https://fakestoreapi.com/carts
+2026-03-11 22:02:39,549 - INFO - Response time: 466 ms
+2026-03-11 22:02:39,549 - INFO - https://fakestoreapi.com/carts returned 7 items
+2026-03-11 22:02:39,550 - INFO - API test run completed
